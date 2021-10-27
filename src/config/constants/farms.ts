@@ -5,12 +5,12 @@ const farms: FarmConfig[] = [
   {
     pid: 37,
     risk: 5,
-    lpSymbol: 'EGG-BUSD LP',
+    lpSymbol: 'TREAT-USDC LP',
     lpAddresses: {
       97: '',
       250: '0x0Dd94754C2BC621Ef8De2fd7A9DF2BC5283e9479',
     },
-    tokenSymbol: 'EGG',
+    tokenSymbol: 'TREAT',
     tokenAddresses: {
       97: '',
       250: '0x484f2ff94a7790759D56Fb1eFbAce8075aBA5e06',
@@ -21,12 +21,12 @@ const farms: FarmConfig[] = [
   {
     pid: 36,
     risk: 5,
-    lpSymbol: 'EGG-BNB LP',
+    lpSymbol: 'TREAT-FTM LP',
     lpAddresses: {
       97: '',
       250: '0x9cb99a48bf83fd724b9e94972170eeef745bc73b',
     },
-    tokenSymbol: 'EGG',
+    tokenSymbol: 'TREAT',
     tokenAddresses: {
       97: '',
       250: '0x484f2ff94a7790759D56Fb1eFbAce8075aBA5e06',
