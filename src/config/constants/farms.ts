@@ -15,7 +15,7 @@ const farms: FarmConfig[] = [
       97: '',
       250: '0x484f2ff94a7790759D56Fb1eFbAce8075aBA5e06',
     },
-    quoteTokenSymbol: QuoteToken.USDC,
+    quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.usdc,
   },
   {
