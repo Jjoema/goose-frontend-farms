@@ -3,7 +3,7 @@
     "inputs": [
       {
         "internalType": "contract TreatToken",
-        "name": "_treat",
+        "name": "_tokenAddress",
         "type": "address"
       },
       {
