@@ -2,8 +2,8 @@
   {
     "inputs": [
       {
-        "internalType": "contract EggToken",
-        "name": "_egg",
+        "internalType": "contract TreatToken",
+        "name": "_treat",
         "type": "address"
       },
       {
@@ -18,7 +18,7 @@
       },
       {
         "internalType": "uint256",
-        "name": "_eggPerBlock",
+        "name": "_treatperSecond",
         "type": "uint256"
       },
       {
@@ -154,10 +154,10 @@
   },
   {
     "inputs": [],
-    "name": "egg",
+    "name": "treat",
     "outputs": [
       {
-        "internalType": "contract EggToken",
+        "internalType": "contract TreatToken",
         "name": "",
         "type": "address"
       }
@@ -168,7 +168,7 @@
   },
   {
     "inputs": [],
-    "name": "eggPerBlock",
+    "name": "treatperSecond",
     "outputs": [
       {
         "internalType": "uint256",
@@ -235,7 +235,7 @@
       },
       {
         "internalType": "uint256",
-        "name": "accEggPerShare",
+        "name": "accTreatPerShare",
         "type": "uint256"
       },
       {
@@ -434,7 +434,7 @@
         "type": "address"
       }
     ],
-    "name": "pendingEgg",
+    "name": "pendingTreat",
     "outputs": [
       {
         "internalType": "uint256",
@@ -545,7 +545,7 @@
     "inputs": [
       {
         "internalType": "uint256",
-        "name": "_eggPerBlock",
+        "name": "_treatperSecond",
         "type": "uint256"
       }
     ],
