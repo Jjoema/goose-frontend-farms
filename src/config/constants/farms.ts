@@ -8,7 +8,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'TREAT-USDC LP',
     lpAddresses: {
       97: '',
-      250: '0x0Dd94754C2BC621Ef8De2fd7A9DF2BC5283e9479',
+      250: '0x4f24aaddac1b93e5419caf992eeee57cfcc09644',
     },
     tokenSymbol: 'TREAT',
     tokenAddresses: {
@@ -57,7 +57,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'EGG',
     lpAddresses: {
       97: '',
-      250: '0x0Dd94754C2BC621Ef8De2fd7A9DF2BC5283e9479', // EGG-BUSD LP
+      250: '0x4f24aaddac1b93e5419caf992eeee57cfcc09644', // EGG-BUSD LP
     },
     tokenSymbol: 'EGG',
     tokenAddresses: {
